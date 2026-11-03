@@ -2,7 +2,7 @@
 
 A small data project: cleaning a public real estate dataset and turning it into an interactive dashboard that shows what drives apartment prices in Almaty.
 
-**Live dashboard:** _(add the shared link here)_
+**Live dashboard:**https://claude.ai/artifact/Cvx5gXEFseVtmuvFVUc1UA
 
 ## What the dashboard shows
 
@@ -21,7 +21,7 @@ All figures are medians of price per m² after cleaning (currency assumed to be 
 
 ## Data
 
-- Source: "Apartments in Almaty" by Altemir Omar on Kaggle, MIT licence. _(add the link to the Kaggle page here)_
+- Source: "Apartments in Almaty" by Altemir Omar on Kaggle, MIT licence. https://www.kaggle.com/datasets/altemiromar/apartments-in-almaty/data
 - The raw file has 11,883 rows and 9 columns, with no missing values.
 - Districts, building type and quality are stored as numeric codes with no legend, so districts appear as codes and building type and quality are not used.
 - The source does not state a currency. The values are consistent with Kazakhstani tenge (KZT), which is an assumption.
